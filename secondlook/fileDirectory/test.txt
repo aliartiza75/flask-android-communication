@@ -1,0 +1,7 @@
+Researchers acknowledge that this work is still in its infancy. 
+Jason Yosinski, who also works in Uber’s A.I. lab
+which grew out of the company’s acquisition of a start-up called Geometric Intelligence
+called Google’s technology idea state of art But he warned it may never be entirely easy to understand the computer mind.
+To a certain extent, as these networks get more complicated, it is going to be fundamentally difficult to understand why they make decisions
+he said
+It is kind of like trying to understand why humans make decisions.
