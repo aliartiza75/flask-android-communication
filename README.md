@@ -12,4 +12,6 @@ Android app collects the message for a particular number and creates a file and 
 ## Flask API
 It is the rest api that contains an endpoint to accept a file and store it in a folder for processing 
 
+## Tutorials
 
+ - https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
